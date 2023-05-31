@@ -31,20 +31,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\ML labwork 2\winequality-red.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value=";" />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\ML labwork 2\winequality-white.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value=";" />
-            </Attribute>
-          </value>
-        </entry>
       </map>
     </option>
   </component>
